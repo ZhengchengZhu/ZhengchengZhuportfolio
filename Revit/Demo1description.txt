@@ -1,0 +1,1 @@
+Electrical installation in Revit by linking an architectural project, placing outlets, lighting fixtures, and a panel board, and then connecting them into electrical circuits for scheduling and wiring.
